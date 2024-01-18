@@ -5,4 +5,5 @@ Lead Software Engineer. Based in Copenhagen, Denmark 🇩🇰
 I'm currently working at [Maersk](https://www.maersk.com/).
 
 ## `My Tech Stack`
-![](https://skillicons.dev/icons?i=kafka,go,azure,docker,kubernetes,jenkins,bash,md,git,github,githubactions,elasticsearch,linux,postgres,prometheus,grafana,java,spring,gradle,maven,cs,dotnet,py,html,js,jest,css,sass,react,redux,bootstrap,electron,webpack&theme=dark&perline=10)
+![](https://skillicons.dev/icons?i=kafka,go,azure,docker,kubernetes,git,github,githubactions,prometheus,grafana,java,spring,gradle,maven,elasticsearch,linux,postgres,jenkins,postman,bash,md,regex,cs,dotnet,py,html,react,redux,js,jest,css,sass,styledcomponents,bootstrap,electron,webpack&theme=dark&perline=10)
+_Note: Some icons are missing, I will add them as soon as they are available._
