@@ -8,3 +8,7 @@ I'm currently working at [Maersk](https://www.maersk.com/).
 ![](https://skillicons.dev/icons?i=kafka,go,azure,docker,kubernetes,git,github,githubactions,prometheus,grafana,java,spring,gradle,maven,elasticsearch,linux,postgres,jenkins,postman,bash,md,regex,cs,dotnet,py,typescript,html,react,redux,js,jest,css,sass,styledcomponents,bootstrap,electron,webpack&theme=dark&perline=10)
 
 _Note: Some icons are missing, I will add them as soon as they are available._
+
+## `My GitHub Stats`
+![Steffen's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=steffen-karlsson&show_icons=true&theme=solarized-dark&count_private=true#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steffen-karlsson&layout=compact&theme=solarized-dark&langs_count=8&count_private=true#gh-dark-mode-only)
