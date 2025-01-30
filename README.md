@@ -9,7 +9,7 @@ I'm currently working at [Maersk](https://www.maersk.com/).
 
 _Note: Some icons are missing, I will add them as soon as they are available._
 
-### Talks and videos
+## `Talks and videos`
 
 | Date          | Title |
 |:--------------|:------|
