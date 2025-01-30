@@ -9,6 +9,13 @@ I'm currently working at [Maersk](https://www.maersk.com/).
 
 _Note: Some icons are missing, I will add them as soon as they are available._
 
+### Talks and videos
+
+| Date          | Title |
+|:--------------|:------|
+| Nov 20, 2024 | KCD Denmark 2024 - Running Apache Kafka at scale on Kubernetes with Strimzi​ - [slide]([https://www.slideshare.net/slideshow/strimzicon-2024-transition-to-apache-kafka-on-kubernetes-with-strimzi-pdf/269148655]) [video]([https://www.youtube.com/watch?v=QkiRQlpol_o]) |
+| May 22, 2024 | StrimziCon 2024 - Transition to Apache Kafka on Kubernetes with Strimzi - [slide]([https://www.slideshare.net/slideshow/strimzicon-2024-transition-to-apache-kafka-on-kubernetes-with-strimzi-pdf/269148655]) [video]([https://www.youtube.com/watch?v=QkiRQlpol_o]) |
+
 ## `My GitHub Stats`
 ![Steffen's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=steffen-karlsson&show_icons=true&theme=solarized-dark&count_private=true#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steffen-karlsson&layout=compact&theme=solarized-dark&langs_count=8&count_private=true#gh-dark-mode-only)
