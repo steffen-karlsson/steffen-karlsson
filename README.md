@@ -13,7 +13,7 @@ _Note: Some icons are missing, I will add them as soon as they are available._
 
 | Date          | Title |
 |:--------------|:------|
-| Nov 20, 2024 | KCD Denmark 2024 - Running Apache Kafka at scale on Kubernetes with Strimzi​ - [slide](https://www.slideshare.net/slideshow/strimzicon-2024-transition-to-apache-kafka-on-kubernetes-with-strimzi-pdf/269148655) [video](https://www.youtube.com/watch?v=QkiRQlpol_o) |
+| Nov 20, 2024 | KCD Denmark 2024 - Running Apache Kafka at scale on Kubernetes with Strimzi​ - [slide](https://www.slideshare.net/slideshow/strimzicon-2024-transition-to-apache-kafka-on-kubernetes-with-strimzi-pdf/269148655) [video](https://www.youtube.com/watch?v=b2oIHqJbbls) |
 | May 22, 2024 | StrimziCon 2024 - Transition to Apache Kafka on Kubernetes with Strimzi - [slide](https://www.slideshare.net/slideshow/strimzicon-2024-transition-to-apache-kafka-on-kubernetes-with-strimzi-pdf/269148655) [video](https://www.youtube.com/watch?v=QkiRQlpol_o) |
 
 ## `My GitHub Stats`
