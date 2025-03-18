@@ -5,7 +5,7 @@ Senior Staff Platform Engineer. Based in Copenhagen, Denmark 🇩🇰
 I'm currently working at [Corti](https://www.corti.ai/).
 
 ## `My Tech Stack`
-![](https://skillicons.dev/icons?i=kafka,go,azure,docker,kubernetes,git,github,githubactions,prometheus,grafana,java,spring,gradle,maven,selenium,elasticsearch,graphql,linux,postgres,jenkins,postman,bash,md,regex,cs,dotnet,py,typescript,html,react,redux,js,jest,css,sass,styledcomponents,bootstrap,electron,vite,webpack&theme=dark&perline=10)
+![](https://skillicons.dev/icons?i=kafka,go,azure,docker,kubernetes,git,github,githubactions,terraform,prometheus,grafana,java,spring,gradle,maven,selenium,elasticsearch,graphql,linux,postgres,jenkins,postman,bash,md,regex,cs,dotnet,py,typescript,html,react,js,jest,css,sass,styledcomponents,bootstrap,electron,vite,webpack&theme=dark&perline=10)
 
 _Note: Some icons are missing, I will add them as soon as they are available._
 
